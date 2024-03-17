@@ -1,4 +1,4 @@
-### Taller-Aplicaciones-Internet
+### Taller de Aplicaciones para Internet
 Repositorio de trabajos prácticos del módulo del mismo nombre para el Instituto AIEP.
 Este repositorio contiene un trabajo práctico del módulo de Taller de Aplicaciones de Internet, el cual a medida que avanzaba el modulo, se debian integrar distintas piezas para finalizar un mockup para un cliente ficticio.
 
